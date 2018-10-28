@@ -41,7 +41,6 @@ while ((!game.checkForWin()) && (!game.isBoardFull())){
 		else{
 			System.out.println("Place already taken, play again");
 		}
-
 	}
 	
 	
